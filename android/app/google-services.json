@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481250389875",
+    "project_id": "logininandsignup",
+    "storage_bucket": "logininandsignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481250389875:android:29b8aa65f84788dbe65f06",
+        "android_client_info": {
+          "package_name": "com.example.labb_ass2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481250389875-blgvm5l5reecr26lc9e8b1kibjp6kar6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeO5p1Aaruz01_ppQRs84dAEeSrmuogFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481250389875-blgvm5l5reecr26lc9e8b1kibjp6kar6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
